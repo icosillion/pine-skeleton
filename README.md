@@ -1,6 +1,6 @@
 # Pine Framework Skeleton
 
-This is a skeleton application that you can use as a starting point for your [Pine](https://pine.icosillion.com/)
+This is a skeleton application that you can use as a starting point for your [Pine](https://github.com/icosillion/pine)
 projects.
 
 ## How To Use
